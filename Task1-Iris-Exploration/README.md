@@ -1,5 +1,5 @@
 # Task 1: Iris-Exploration
-![Iris EDA Poster](Task1-Iris-Exploration/Task1_Iris_Exploration.png)
+![Iris EDA Poster](Task1_Iris_Exploration.png)
 ---
 
 ## Objective
