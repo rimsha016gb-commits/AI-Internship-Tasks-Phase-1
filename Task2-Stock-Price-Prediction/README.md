@@ -125,18 +125,6 @@ Open the `.ipynb` file in VS Code and click **Run All**
 
 ---
 
-## Project Structure
-
-```
-Task2/
-├── task2_stock_price_prediction.py   # Python script
-├── Task2_Stock_Price_Prediction.ipynb # Jupyter Notebook
-├── requirements.txt                   # Required libraries
-└── README.md                          # Project documentation
-```
-
----
-
 ## Conclusion
 
 The Linear Regression model successfully predicts the next
