@@ -1,4 +1,4 @@
-# Task 2: Predict Future Stock Prices
+# Task 2: Stock Price Prediction
 
 **Internship:** DevelopersHub Corporation – AI/ML Engineering  
 
@@ -152,6 +152,4 @@ improved with Random Forest or LSTM neural networks.
 
 ## Author
 
-**Name:** Rimsha Aslam 
-**Internship:** AI/ML Engineering Intern  
-**Organization:** DevelopersHub Corporation
+**Name:** Rimsha Aslam  **Internship:** AI/ML Engineering Intern   **Organization:** DevelopersHub Corporation
