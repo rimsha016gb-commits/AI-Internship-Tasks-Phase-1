@@ -1,6 +1,4 @@
-# Task 2: Stock Price Prediction
-
-**Internship:** DevelopersHub Corporation – AI/ML Engineering  
+# Task 2: Stock Price Prediction  
 
 ---
 
