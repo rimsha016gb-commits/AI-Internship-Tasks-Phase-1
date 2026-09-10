@@ -1,8 +1,5 @@
 # Task 3: Heart Disease Prediction
 
-**Internship:** DevelopersHub Corporation – AI/ML Engineering  
-**Due Date:** 5th June, 2026
-
 ---
 
 ## Objective
@@ -61,19 +58,6 @@ is at risk of heart disease based on their medical health data.
 
 ```
 pip install -r requirements.txt
-```
-
----
-
-## Project Structure
-
-```
-Task3/
-├── task3_heart_disease_prediction.py    # Main Python script
-├── Task3_Heart_Disease_Prediction.ipynb # Jupyter Notebook
-├── requirements.txt                      # Required libraries
-└── README.md                             # Project documentation
-```
 
 ---
 
@@ -91,28 +75,7 @@ Task3/
 
 ---
 
-## How to Run
-
-### Option 1 — Python Script
-```
-python task3_heart_disease_prediction.py
-```
-
-### Option 2 — Jupyter Notebook
-```
-jupyter notebook Task3_Heart_Disease_Prediction.ipynb
-```
-
-### Option 3 — VS Code
-Open `Task3_Heart_Disease_Prediction.ipynb` and click **Run All**
-
-> Internet connection required to auto-download the dataset.  
-> If no internet — place `heart.csv` in the same folder and  
-> replace the URL line with: `df = pd.read_csv('heart.csv')`
-
----
-
-## Output — What You Will See
+## Output
 
 ### Printed Output
 ```
@@ -196,6 +159,4 @@ like Random Forest or XGBoost, or deep learning approaches.
 
 ## Author
 
-**Name:** Your Name  
-**Internship:** AI/ML Engineering Intern  
-**Organization:** DevelopersHub Corporation
+**Name:** Rimsha Aslam    **Internship:** AI/ML Engineering Intern      **Organization:** DevelopersHub Corporation
