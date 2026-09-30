@@ -2,6 +2,8 @@
 
 **Internship:** DevelopersHub Corporation – AI/ML Engineering  
 
+<img width="1368" height="768" alt="Task4-Health-Chatbot" src="https://github.com/user-attachments/assets/10f216ab-ed14-4eaf-a15e-c81223e3cd70" />
+
 
 ## Objective
 
